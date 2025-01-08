@@ -65,12 +65,12 @@
 .fh-icon-box.version-light:hover:before,
 .services-menu-widget ul li:hover,
 .services-menu-widget ul li.current-menu-item {
-    background-color: #ee6012
+    background-color: #94053A
 }
 
 .ch_button:hover,
 .tp-caption.ch_button:hover {
-    background-color: #ee6012 !important;
+    background-color: #94053A !important;
 }
 
 
@@ -110,11 +110,11 @@
 
 .ch_button:hover,
 .tp-caption.ch_button:hover {
-    border-color: #ee6012 !important;
+    border-color: #94053A !important;
 }
 
 blockquote {
-    border-left-color: #ee6012 !important;
+    border-left-color: #94053A !important;
 }
 
 
@@ -241,7 +241,7 @@ blockquote {
 .cargo-office-location-widget .topbar-office li i,
 .blog-wrapper.sticky .entry-title:before,
 .cargo-contact-widget i {
-    color: #ee6012
+    color: #94053A
 }
 
 .fh-accordion.style-2.vc_tta-accordion .vc_tta-panel-title a:hover,
@@ -264,13 +264,13 @@ blockquote {
 .nav ul.menu > li.current-menu-parent > a,
 .nav ul.menu > li.current_page_item > a,
 .nav ul.menu > li.active > a {
-    color: #ee6012;
+    color: #94053A;
 }
 
 .header-sticky.header-v3 .site-header.minimized .nav .menu > li:hover > a,
 .header-sticky.header-v3 .site-header.minimized .nav .menu > li.current-menu-item > a,
 .header-sticky.header-v3 .site-header.minimized .nav .menu > li.active > a {
-    color: #ee6012;
+    color: #94053A;
 }
 
 
@@ -368,7 +368,7 @@ blockquote {
 }
 
 .stripcontact {
-    background: #ee6012;
+    background: #94053A;
     padding: 40px 0;
 }
 
@@ -377,7 +377,7 @@ blockquote {
 }
 
 .scroll-to-top .fa {
-    color: #ee6012;
+    color: #94053A;
 }
 
 .scroll-to-top {
